@@ -1,7 +1,7 @@
 # About Me:
 
 - 🌱 I’m currently working on a **gunshot detector system algorithm**and some open source personal projects .
-- 💬 I’m looking to collaborate on **buyNsell** <br>
+<!---  💬 I’m looking to collaborate on **buyNsell** <br>---!>
 - 🤝 I could use a little design magic—because let's be honest, it can always be better, and a good designer never hurt anyone (except maybe their competitors).<br>
 - 🌱 I’m currently learning typescript<br>
 - ⚡ Fun fact - I create content too:)
