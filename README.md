@@ -3,7 +3,7 @@
 
 - 🤝 I could use a little design magic—because let's be honest, it can always be better, and a good designer never hurt anyone (except maybe their competitors).<br>
 - 🌱 Learning more about operating systems and how everything is integrated at a low level.<br>
-- ⚡ Fun fact - I create content too:)
+- ⚡ Fun fact - Check my contributions:)
 
 
 
