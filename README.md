@@ -1,5 +1,4 @@
 <h2 align="left">Welcome to Devanshi's Page</h2>
-<i align="left">Yes I write scripts to manipulate Git*ub</i>
 
 <img align="right" height="180" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
 
